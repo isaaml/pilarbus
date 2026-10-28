@@ -1,0 +1,9 @@
+{
+  "name": "pilarbus",
+  "version": "1.0.0",
+  "description": "App móvil y web para ver el recorrido de los colectivos de Pilar",
+  "scripts": {
+    "build": "echo Build OK",
+    "test": "echo Tests OK"
+  }
+}
