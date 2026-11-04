@@ -7,6 +7,7 @@ El proyecto se desarrolla para el Segundo Parcial de Fundamentos del Desarrollo 
 ## Metodología de trabajo
 
 El equipo trabaja con Scrum, en sprints de dos semanas. Dado que las funcionalidades se ajustan según los comentarios semanales de los usuarios beta, el backlog se revisa y se reordena en cada sprint. El seguimiento de las tareas se realiza en un tablero de Trello con tres columnas (To Do, In Progress y Done). La columna In Progress tiene un límite de 3 tareas simultáneas, de modo que se termine el trabajo en curso antes de iniciar uno nuevo. Cada tarea cuenta con su estimación en Story Points.
+El tablero de Trello es público y se puede ver en https://trello.com/b/E4WoyreM/pilarbus
 
 ## Flujo de cambios
 
